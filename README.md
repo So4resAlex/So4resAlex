@@ -4,6 +4,14 @@ Me chamo Alex Soares, trabalho como analistra de infraestrutura/Sys Admin na @In
 
 |My name is Alex Soares, I work as an infrastructure analyst / Sys Admin at @Inside Sistemas. I work with On-primese and Cloud IAAS infrastructure💻|
 
+### Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/alex-alves-soares-96831a1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "alealvessoares28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 ### Ferramentas e Tecnologias🛠 |Tools and Technologies🛠|
 <p float="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -27,7 +35,7 @@ Me chamo Alex Soares, trabalho como analistra de infraestrutura/Sys Admin na @In
 </p>
 
 <div>
-<a href="https://github.com/So4resAlex">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So4resAlex&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=So4resAlex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/So4resAlex">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So4resAlex&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=So4resAlex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
