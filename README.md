@@ -1,6 +1,6 @@
 ### Olá pessoas🤝 |Hello people🤝|
 
-Me chamo Alex Soares, trabalho como analistra de infraestrutura/Sys Admin na @Inside Sistemas. Atuo com infraestrutura On-primese e Cloud IAAS💻
+Me chamo Alex Soares, trabalho como analista de infraestrutura/Sys Admin na @Inside Sistemas. Atuo com infraestrutura On-primese e Cloud IAAS💻
 
 |My name is Alex Soares, I work as an infrastructure analyst / Sys Admin at @Inside Sistemas. I work with On-primese and Cloud IAAS infrastructure💻|
 
