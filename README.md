@@ -23,7 +23,6 @@ Me chamo Alex Soares, trabalho como analista de infraestrutura/Sys Admin na @Ins
 
 ### Estou aprendendo📚 |I am learning📚|
 <p float="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" height="40"/>
  <img src="https://img.icons8.com/fluency/48/000000/ansible.png" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
