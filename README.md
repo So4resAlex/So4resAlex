@@ -21,7 +21,7 @@ My name is Alex Soares, I work as an infrastructure analyst, my focus is on auto
 </p>
 
 ### Portifolio
-- [Shell Lab|Shell script](https://github.com/So4resAlex/shell_lab)
+- [Shell Lab | Shell script](https://github.com/So4resAlex/shell_lab)
 
 <div>
  <a href="https://github.com/So4resAlex">
