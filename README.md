@@ -20,6 +20,9 @@ My name is Alex Soares, I work as an infrastructure analyst, my focus is on auto
  <img src="https://img.icons8.com/color/48/000000/terraform.png"width="40" height="40"/>
 </p>
 
+### Portifolio
+- [Shell script](https://github.com/So4resAlex/shell_lab)
+
 <div>
  <a href="https://github.com/So4resAlex">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=So4resAlex&layout=compact&langs_count=7&theme=dracula"/>
