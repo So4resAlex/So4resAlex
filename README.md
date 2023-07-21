@@ -10,15 +10,6 @@ My name is Alex Soares, I work as an infrastructure analyst, my focus is on auto
 <a href="https://www.linkedin.com/in/alex-alves-soares-96831a1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Ferramentas e Tecnologias🛠 |Tools and Technologies🛠|
-<p float="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
- <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40"/>
-</p>
-
-
 ### Estou aprendendo📚 |I am learning📚|
 <p float="left">
  <img src="https://img.icons8.com/fluency/48/000000/ansible.png" width="40" height="40"/>
