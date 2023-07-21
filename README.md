@@ -1,8 +1,8 @@
 ### Olá pessoas🤝 |Hello people🤝|
 
-Me chamo Alex Soares, trabalho como analista de infraestrutura/Sys Admin na @Inside Sistemas. Atuo com infraestrutura On-premise e Cloud IAAS💻
+Me chamo Alex Soares, trabalho como analista de infraestrutura, meu foco é em automação e boas praticas de senvolvimento de produtos. 
 
-|My name is Alex Soares, I work as an infrastructure analyst / Sys Admin at @Inside Sistemas. I work with On-premise and Cloud IAAS infrastructure💻|
+My name is Alex Soares, I work as an infrastructure analyst, my focus is on automation and good practices in product development.
 
 ### Contatos:
 
@@ -16,8 +16,6 @@ Me chamo Alex Soares, trabalho como analista de infraestrutura/Sys Admin na @Ins
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
  <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
 
