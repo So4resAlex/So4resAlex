@@ -20,7 +20,7 @@ My name is Alex Soares, I work as an infrastructure analyst, my focus is on auto
  <img src="https://img.icons8.com/color/48/000000/terraform.png"width="40" height="40"/>
 </p>
 
-### Portifolio
+### Labs
 - [Shell Lab | Shell script](https://github.com/So4resAlex/shell_lab)
 
 <div>
