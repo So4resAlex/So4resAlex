@@ -1,13 +1,12 @@
 ### Olá pessoas🤝 |Hello people🤝|
 
-Me chamo Alex Soares, trabalho como analista de infraestrutura, meu foco é em automação e boas praticas de senvolvimento de produtos. 
-
-My name is Alex Soares, I work as an infrastructure analyst, my focus is on automation and good practices in product development.
+Me chamo Alex Soares, trabalho como analista de infraestrutura, meu foco é em automação. gerenciamento de nuvem e boas praticas desenvolvimento de produtos. Sou apaixonado por tecnologia e adoro enfrentar desafios para criar soluções inovadoras.
 
 ### Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/alex-alves-soares-96831a1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="mailto:alealvessoares28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"</a>
+<a href="https://www.linkedin.com/in/alex-alves-soares-96831a1a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ### Estou aprendendo📚 |I am learning📚|
