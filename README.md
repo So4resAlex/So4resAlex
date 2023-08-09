@@ -23,6 +23,8 @@ Me chamo Alex Soares, trabalho como analista de infraestrutura, meu foco é em a
 - [Shell Lab | Shell script](https://github.com/So4resAlex/shell_lab)
 ##### Learning - Repos contendo ``_learning`` são registros de treinamentos em andamento ou concluidos.
 - [Python Learning | Python](https://github.com/So4resAlex/python_learning)
+#### Repos com contribuição
+-
 
 
 <div>
