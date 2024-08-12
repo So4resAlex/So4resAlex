@@ -15,17 +15,8 @@ Me chamo Alex Soares, trabalho como analista de infraestrutura, meu foco é em a
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
  <img src="https://img.icons8.com/color/48/000000/terraform.png"width="40" height="40"/>
 </p>
-
-##### Labs - Repos contendo ``_lab`` são implentações prática dos meus estudos.
-- [Shell Lab | Shell script](https://github.com/So4resAlex/shell_lab)
-##### Learning - Repos contendo ``_learning`` são registros de treinamentos em andamento ou concluidos.
-- [Python Learning | Python](https://github.com/So4resAlex/python_learning)
-#### Repos com contribuição
--
-
 
 <div>
  <a href="https://github.com/So4resAlex">
